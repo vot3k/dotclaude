@@ -11,6 +11,8 @@
  *  npm install -g bun
  *  npm install -g @socketsecurity/cli
  *
+ * LOGGING: Define directory for logging with the SOCKET_HOOK_LOG_DIR env
+ *
  * Fail-open on errors (network timeout, parse failures) for usability.
  * Fail-safe when CLI missing (prompts user).
  */
