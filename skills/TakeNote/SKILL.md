@@ -16,6 +16,7 @@ Capture notes to Memos via memoscript with smart, selective tagging.
 ## Quick Reference
 
 - **CLI:** `bun  ~/.claude/skills/MakeNote/Tools/memoscript.ts create "<content>"`
+- **Formatting:** Memos support markdown, format memo in markdown to improve readability
 - **Tags:** Inline `#hashtags` in content — Memos parses them natively
 - **Modes:** Explicit (user provides content) or Inferred (derive from conversation)
 - **Tagging rules:** `TaggingGuide.md`
